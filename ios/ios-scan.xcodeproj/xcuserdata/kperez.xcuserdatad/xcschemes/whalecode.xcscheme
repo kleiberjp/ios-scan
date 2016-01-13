@@ -17,7 +17,7 @@
                BlueprintIdentifier = "01AA1EC01C17E4B0003F0324"
                BuildableName = "whalecode.app"
                BlueprintName = "whalecode"
-               ReferencedContainer = "container:whalecode.xcodeproj">
+               ReferencedContainer = "container:ios-scan.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
                BlueprintIdentifier = "01AA1ED91C17E4B1003F0324"
                BuildableName = "whalecodeTests.xctest"
                BlueprintName = "whalecodeTests"
-               ReferencedContainer = "container:whalecode.xcodeproj">
+               ReferencedContainer = "container:ios-scan.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -45,7 +45,7 @@
                BlueprintIdentifier = "01AA1EE41C17E4B1003F0324"
                BuildableName = "whalecodeUITests.xctest"
                BlueprintName = "whalecodeUITests"
-               ReferencedContainer = "container:whalecode.xcodeproj">
+               ReferencedContainer = "container:ios-scan.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,7 +55,7 @@
             BlueprintIdentifier = "01AA1EC01C17E4B0003F0324"
             BuildableName = "whalecode.app"
             BlueprintName = "whalecode"
-            ReferencedContainer = "container:whalecode.xcodeproj">
+            ReferencedContainer = "container:ios-scan.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -78,7 +78,7 @@
             BlueprintIdentifier = "01AA1EC01C17E4B0003F0324"
             BuildableName = "whalecode.app"
             BlueprintName = "whalecode"
-            ReferencedContainer = "container:whalecode.xcodeproj">
+            ReferencedContainer = "container:ios-scan.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -97,7 +97,7 @@
             BlueprintIdentifier = "01AA1EC01C17E4B0003F0324"
             BuildableName = "whalecode.app"
             BlueprintName = "whalecode"
-            ReferencedContainer = "container:whalecode.xcodeproj">
+            ReferencedContainer = "container:ios-scan.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

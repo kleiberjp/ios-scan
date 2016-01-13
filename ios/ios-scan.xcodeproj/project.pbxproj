@@ -13,8 +13,8 @@
 		01AA1ECF1C17E4B1003F0324 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 01AA1ECD1C17E4B1003F0324 /* Main.storyboard */; };
 		01AA1ED11C17E4B1003F0324 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 01AA1ED01C17E4B1003F0324 /* Assets.xcassets */; };
 		01AA1ED41C17E4B1003F0324 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 01AA1ED21C17E4B1003F0324 /* LaunchScreen.storyboard */; };
-		01AA1EDF1C17E4B1003F0324 /* whalecodeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 01AA1EDE1C17E4B1003F0324 /* whalecodeTests.m */; };
-		01AA1EEA1C17E4B1003F0324 /* whalecodeUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 01AA1EE91C17E4B1003F0324 /* whalecodeUITests.m */; };
+		01AA1EDF1C17E4B1003F0324 /* ios-scanTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 01AA1EDE1C17E4B1003F0324 /* ios-scanTests.m */; };
+		01AA1EEA1C17E4B1003F0324 /* ios-scanUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 01AA1EE91C17E4B1003F0324 /* ios-scanUITests.m */; };
 		01AA1EF91C17E821003F0324 /* CameraViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 01AA1EF81C17E821003F0324 /* CameraViewController.m */; };
 		01AA1EFB1C17E8CA003F0324 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 01AA1EFA1C17E8CA003F0324 /* CoreLocation.framework */; };
 		093070B0F8B7850D038616E6 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 16CD6AE3051FF231F4F51E93 /* libPods.a */; };
@@ -38,7 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		01AA1EC11C17E4B0003F0324 /* whalecode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = whalecode.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		01AA1EC11C17E4B0003F0324 /* ios-scan.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ios-scan.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		01AA1EC51C17E4B0003F0324 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		01AA1EC71C17E4B0003F0324 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		01AA1EC81C17E4B0003F0324 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -48,11 +48,11 @@
 		01AA1ED01C17E4B1003F0324 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		01AA1ED31C17E4B1003F0324 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		01AA1ED51C17E4B1003F0324 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		01AA1EDA1C17E4B1003F0324 /* whalecodeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = whalecodeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		01AA1EDE1C17E4B1003F0324 /* whalecodeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = whalecodeTests.m; sourceTree = "<group>"; };
+		01AA1EDA1C17E4B1003F0324 /* ios-scan.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ios-scan.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		01AA1EDE1C17E4B1003F0324 /* ios-scanTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "ios-scanTests.m"; sourceTree = "<group>"; };
 		01AA1EE01C17E4B1003F0324 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		01AA1EE51C17E4B1003F0324 /* whalecodeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = whalecodeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		01AA1EE91C17E4B1003F0324 /* whalecodeUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = whalecodeUITests.m; sourceTree = "<group>"; };
+		01AA1EE51C17E4B1003F0324 /* ios-scan.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ios-scan.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		01AA1EE91C17E4B1003F0324 /* ios-scanUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "ios-scanUITests.m"; sourceTree = "<group>"; };
 		01AA1EEB1C17E4B1003F0324 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		01AA1EF71C17E821003F0324 /* CameraViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CameraViewController.h; sourceTree = "<group>"; };
 		01AA1EF81C17E821003F0324 /* CameraViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CameraViewController.m; sourceTree = "<group>"; };
@@ -93,9 +93,9 @@
 			isa = PBXGroup;
 			children = (
 				01AA1EFA1C17E8CA003F0324 /* CoreLocation.framework */,
-				01AA1EC31C17E4B0003F0324 /* whalecode */,
-				01AA1EDD1C17E4B1003F0324 /* whalecodeTests */,
-				01AA1EE81C17E4B1003F0324 /* whalecodeUITests */,
+				01AA1EC31C17E4B0003F0324 /* ios-scan */,
+				01AA1EDD1C17E4B1003F0324 /* ios-scanTests */,
+				01AA1EE81C17E4B1003F0324 /* ios-scanUITests */,
 				01AA1EC21C17E4B0003F0324 /* Products */,
 				0973F71495B64F66724DBACD /* Pods */,
 				12D208137BFE82CD4E5506B7 /* Frameworks */,
@@ -105,14 +105,14 @@
 		01AA1EC21C17E4B0003F0324 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				01AA1EC11C17E4B0003F0324 /* whalecode.app */,
-				01AA1EDA1C17E4B1003F0324 /* whalecodeTests.xctest */,
-				01AA1EE51C17E4B1003F0324 /* whalecodeUITests.xctest */,
+				01AA1EC11C17E4B0003F0324 /* ios-scan.app */,
+				01AA1EDA1C17E4B1003F0324 /* ios-scan.xctest */,
+				01AA1EE51C17E4B1003F0324 /* ios-scan.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		01AA1EC31C17E4B0003F0324 /* whalecode */ = {
+		01AA1EC31C17E4B0003F0324 /* ios-scan */ = {
 			isa = PBXGroup;
 			children = (
 				01AA1EC71C17E4B0003F0324 /* AppDelegate.h */,
@@ -127,6 +127,7 @@
 				01AA1ED51C17E4B1003F0324 /* Info.plist */,
 				01AA1EC41C17E4B0003F0324 /* Supporting Files */,
 			);
+			name = "ios-scan";
 			path = whalecode;
 			sourceTree = "<group>";
 		};
@@ -138,21 +139,23 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		01AA1EDD1C17E4B1003F0324 /* whalecodeTests */ = {
+		01AA1EDD1C17E4B1003F0324 /* ios-scanTests */ = {
 			isa = PBXGroup;
 			children = (
-				01AA1EDE1C17E4B1003F0324 /* whalecodeTests.m */,
+				01AA1EDE1C17E4B1003F0324 /* ios-scanTests.m */,
 				01AA1EE01C17E4B1003F0324 /* Info.plist */,
 			);
+			name = "ios-scanTests";
 			path = whalecodeTests;
 			sourceTree = "<group>";
 		};
-		01AA1EE81C17E4B1003F0324 /* whalecodeUITests */ = {
+		01AA1EE81C17E4B1003F0324 /* ios-scanUITests */ = {
 			isa = PBXGroup;
 			children = (
-				01AA1EE91C17E4B1003F0324 /* whalecodeUITests.m */,
+				01AA1EE91C17E4B1003F0324 /* ios-scanUITests.m */,
 				01AA1EEB1C17E4B1003F0324 /* Info.plist */,
 			);
+			name = "ios-scanUITests";
 			path = whalecodeUITests;
 			sourceTree = "<group>";
 		};
@@ -176,9 +179,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		01AA1EC01C17E4B0003F0324 /* whalecode */ = {
+		01AA1EC01C17E4B0003F0324 /* ios-scan */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 01AA1EEE1C17E4B1003F0324 /* Build configuration list for PBXNativeTarget "whalecode" */;
+			buildConfigurationList = 01AA1EEE1C17E4B1003F0324 /* Build configuration list for PBXNativeTarget "ios-scan" */;
 			buildPhases = (
 				C373576561D929647E0148DC /* Check Pods Manifest.lock */,
 				01AA1EBD1C17E4B0003F0324 /* Sources */,
@@ -191,14 +194,14 @@
 			);
 			dependencies = (
 			);
-			name = whalecode;
+			name = "ios-scan";
 			productName = whalecode;
-			productReference = 01AA1EC11C17E4B0003F0324 /* whalecode.app */;
+			productReference = 01AA1EC11C17E4B0003F0324 /* ios-scan.app */;
 			productType = "com.apple.product-type.application";
 		};
-		01AA1ED91C17E4B1003F0324 /* whalecodeTests */ = {
+		01AA1ED91C17E4B1003F0324 /* ios-scanTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 01AA1EF11C17E4B1003F0324 /* Build configuration list for PBXNativeTarget "whalecodeTests" */;
+			buildConfigurationList = 01AA1EF11C17E4B1003F0324 /* Build configuration list for PBXNativeTarget "ios-scanTests" */;
 			buildPhases = (
 				01AA1ED61C17E4B1003F0324 /* Sources */,
 				01AA1ED71C17E4B1003F0324 /* Frameworks */,
@@ -209,14 +212,14 @@
 			dependencies = (
 				01AA1EDC1C17E4B1003F0324 /* PBXTargetDependency */,
 			);
-			name = whalecodeTests;
+			name = "ios-scanTests";
 			productName = whalecodeTests;
-			productReference = 01AA1EDA1C17E4B1003F0324 /* whalecodeTests.xctest */;
+			productReference = 01AA1EDA1C17E4B1003F0324 /* ios-scan.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		01AA1EE41C17E4B1003F0324 /* whalecodeUITests */ = {
+		01AA1EE41C17E4B1003F0324 /* ios-scanUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 01AA1EF41C17E4B1003F0324 /* Build configuration list for PBXNativeTarget "whalecodeUITests" */;
+			buildConfigurationList = 01AA1EF41C17E4B1003F0324 /* Build configuration list for PBXNativeTarget "ios-scanUITests" */;
 			buildPhases = (
 				01AA1EE11C17E4B1003F0324 /* Sources */,
 				01AA1EE21C17E4B1003F0324 /* Frameworks */,
@@ -227,9 +230,9 @@
 			dependencies = (
 				01AA1EE71C17E4B1003F0324 /* PBXTargetDependency */,
 			);
-			name = whalecodeUITests;
+			name = "ios-scanUITests";
 			productName = whalecodeUITests;
-			productReference = 01AA1EE51C17E4B1003F0324 /* whalecodeUITests.xctest */;
+			productReference = 01AA1EE51C17E4B1003F0324 /* ios-scan.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -255,7 +258,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 01AA1EBC1C17E4B0003F0324 /* Build configuration list for PBXProject "whalecode" */;
+			buildConfigurationList = 01AA1EBC1C17E4B0003F0324 /* Build configuration list for PBXProject "ios-scan" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -268,9 +271,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				01AA1EC01C17E4B0003F0324 /* whalecode */,
-				01AA1ED91C17E4B1003F0324 /* whalecodeTests */,
-				01AA1EE41C17E4B1003F0324 /* whalecodeUITests */,
+				01AA1EC01C17E4B0003F0324 /* ios-scan */,
+				01AA1ED91C17E4B1003F0324 /* ios-scanTests */,
+				01AA1EE41C17E4B1003F0324 /* ios-scanUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -366,7 +369,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				01AA1EDF1C17E4B1003F0324 /* whalecodeTests.m in Sources */,
+				01AA1EDF1C17E4B1003F0324 /* ios-scanTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -374,7 +377,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				01AA1EEA1C17E4B1003F0324 /* whalecodeUITests.m in Sources */,
+				01AA1EEA1C17E4B1003F0324 /* ios-scanUITests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -383,12 +386,12 @@
 /* Begin PBXTargetDependency section */
 		01AA1EDC1C17E4B1003F0324 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 01AA1EC01C17E4B0003F0324 /* whalecode */;
+			target = 01AA1EC01C17E4B0003F0324 /* ios-scan */;
 			targetProxy = 01AA1EDB1C17E4B1003F0324 /* PBXContainerItemProxy */;
 		};
 		01AA1EE71C17E4B1003F0324 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 01AA1EC01C17E4B0003F0324 /* whalecode */;
+			target = 01AA1EC01C17E4B0003F0324 /* ios-scan */;
 			targetProxy = 01AA1EE61C17E4B1003F0324 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -503,7 +506,7 @@
 				INFOPLIST_FILE = whalecode/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.kperez;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "ios-scan";
 				USER_HEADER_SEARCH_PATHS = "\"${PODS_ROOT}/Headers\"/**";
 			};
 			name = Debug;
@@ -516,7 +519,7 @@
 				INFOPLIST_FILE = whalecode/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.kperez;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "ios-scan";
 				USER_HEADER_SEARCH_PATHS = "\"${PODS_ROOT}/Headers\"/**";
 			};
 			name = Release;
@@ -529,8 +532,8 @@
 				INFOPLIST_FILE = whalecodeTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.kperez.whalecodeTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/whalecode.app/whalecode";
+				PRODUCT_NAME = "ios-scan";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ios-scan.app/ios-scan";
 			};
 			name = Debug;
 		};
@@ -542,8 +545,8 @@
 				INFOPLIST_FILE = whalecodeTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.kperez.whalecodeTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/whalecode.app/whalecode";
+				PRODUCT_NAME = "ios-scan";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ios-scan.app/ios-scan";
 			};
 			name = Release;
 		};
@@ -554,7 +557,7 @@
 				INFOPLIST_FILE = whalecodeUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.kperez.whalecodeUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "ios-scan";
 				TEST_TARGET_NAME = whalecode;
 				USES_XCTRUNNER = YES;
 			};
@@ -567,7 +570,7 @@
 				INFOPLIST_FILE = whalecodeUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.kperez.whalecodeUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "ios-scan";
 				TEST_TARGET_NAME = whalecode;
 				USES_XCTRUNNER = YES;
 			};
@@ -576,7 +579,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		01AA1EBC1C17E4B0003F0324 /* Build configuration list for PBXProject "whalecode" */ = {
+		01AA1EBC1C17E4B0003F0324 /* Build configuration list for PBXProject "ios-scan" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				01AA1EEC1C17E4B1003F0324 /* Debug */,
@@ -585,7 +588,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		01AA1EEE1C17E4B1003F0324 /* Build configuration list for PBXNativeTarget "whalecode" */ = {
+		01AA1EEE1C17E4B1003F0324 /* Build configuration list for PBXNativeTarget "ios-scan" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				01AA1EEF1C17E4B1003F0324 /* Debug */,
@@ -594,7 +597,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		01AA1EF11C17E4B1003F0324 /* Build configuration list for PBXNativeTarget "whalecodeTests" */ = {
+		01AA1EF11C17E4B1003F0324 /* Build configuration list for PBXNativeTarget "ios-scanTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				01AA1EF21C17E4B1003F0324 /* Debug */,
@@ -603,7 +606,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		01AA1EF41C17E4B1003F0324 /* Build configuration list for PBXNativeTarget "whalecodeUITests" */ = {
+		01AA1EF41C17E4B1003F0324 /* Build configuration list for PBXNativeTarget "ios-scanUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				01AA1EF51C17E4B1003F0324 /* Debug */,

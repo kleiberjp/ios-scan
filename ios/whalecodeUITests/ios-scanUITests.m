@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface whalecodeUITests : XCTestCase
+@interface ios-scanUITests : XCTestCase
 
 @end
 
-@implementation whalecodeUITests
+@implementation ios-scanUITests
 
 - (void)setUp {
     [super setUp];

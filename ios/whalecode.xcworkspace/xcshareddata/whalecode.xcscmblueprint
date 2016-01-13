@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CA02E6AC22C1144C3AD1E74B7B58DC30BABDDCF4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B9B00FFC2755F70E697518B41CAA773BFD905857" : 0,
+    "CA02E6AC22C1144C3AD1E74B7B58DC30BABDDCF4" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5094DFCF-0E26-4DF8-947E-6CB55DBD5C7D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B9B00FFC2755F70E697518B41CAA773BFD905857" : "",
+    "CA02E6AC22C1144C3AD1E74B7B58DC30BABDDCF4" : "ios\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "whalecode",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "whalecode.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kleiberjp\/ios-scan.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B9B00FFC2755F70E697518B41CAA773BFD905857"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/whalecode\/ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CA02E6AC22C1144C3AD1E74B7B58DC30BABDDCF4"
+    }
+  ]
+}
